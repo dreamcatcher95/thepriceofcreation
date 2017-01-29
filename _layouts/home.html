@@ -13,6 +13,7 @@
     {% include header.html %}
 
     <!-- Banner -->
+    <!--
     <section id="banner" class="major">
         <div class="inner">
             <header class="major">
@@ -20,15 +21,33 @@
             </header>
             <div class="content">
                 <p style="text-transform: uppercase;">{{ site.description }}</p>
-                <!--
+                
                 <ul class="actions">
                     <li><a href="#one" class="button next scrolly">Get Started</a></li>
                 </ul>
-                -->
+                
             </div>
         </div>
     </section>
+    -->
 
+    <section  id="banner" class="major">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-10 col-md-offset-1 col-sm-12 align-center">
+                    <h1>{{ page.landing-title }}</h1>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-4 col-md-offset-4">
+                    <p class="align-center" style=" margin: 0; text-transform: uppercase;">
+                        {{ site.description }}
+                    </p>
+                </div>    
+            </div>
+        </div>
+    </section>
+    
     <!-- Main -->
     <div id="main">
 
