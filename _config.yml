@@ -1,0 +1,24 @@
+# Site settings
+title: The Price of Creation
+subtitle: Poems + More
+email: hyder.hasnain19@gmail.com
+description: Things I write.
+#baseurl: "/thepriceofcreation" # the subpath of your site, e.g. /blog
+url: "https://hyderhasnain.gitlab.io" # the base hostname & protocol for your site
+
+# Homepage tiles
+tiles-source: posts # accepts "posts" or "pages"
+tiles-count: 6
+
+# Social settings
+
+gitlab_url: https://gitlab.com/u/hyderhasnain
+
+
+# Build settings
+markdown: kramdown
+
+sass:
+    sass_dir: _sass
+    style: compressed
+  
