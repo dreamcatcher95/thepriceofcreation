@@ -3,8 +3,8 @@ title: The Price of Creation
 subtitle: Poems + More
 email: hyder.hasnain19@gmail.com
 description: Things I write.
-#baseurl: "/thepriceofcreation" # the subpath of your site, e.g. /blog
-url: "https://hyderhasnain.github.io/thepriceofcreation" # the base hostname & protocol for your site
+baseurl: "/thepriceofcreation" # the subpath of your site, e.g. /blog
+url: "https://hyderhasnain.github.io" # the base hostname & protocol for your site
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
