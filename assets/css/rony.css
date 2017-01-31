@@ -1,0 +1,48 @@
+/**CSS for components and things designed and implemented by Rony Islam - jahedulislam.com **/
+
+#ronybanner{
+    background: 
+    /* top, transparent black to blue, faked with gradient */ 
+    linear-gradient(
+      rgba(0, 2, 10, .55), 
+      rgba(0, 2, 80, 0.45)
+    ),
+    /* bottom, image */
+    url('/assets/images/banner.jpg');  background-size:   cover;                      /* <------ */
+    background-repeat: no-repeat;
+    background-position: center center; 
+    height:50vh;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.vcenter{
+    height:100%;
+    position: relative;
+    vertical-align: baseline;
+}
+
+.flexbox{
+    display:flex;
+ justify-content:center;
+ align-items: center;
+ flex-flow: column;
+    padding-top: 180px;
+}
+
+h1{
+    margin-bottom: 0;
+}
+
+hr.small {
+  border-width: 4px;
+  border-color: white;
+    width:50vw;
+    margin:5px;
+}
+
+#ronybanner h1{
+    font-size: 5em;
+}
