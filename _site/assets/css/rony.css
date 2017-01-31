@@ -8,7 +8,7 @@
       rgba(0, 2, 80, 0.45)
     ),
     /* bottom, image */
-    url('/assets/images/banner.jpg');  background-size:   cover;                      /* <------ */
+    url('/thepriceofcreation/assets/images/banner.jpg');  background-size:   cover;                      /* <------ */
     background-repeat: no-repeat;
     background-position: center center; 
     height:50vh;
