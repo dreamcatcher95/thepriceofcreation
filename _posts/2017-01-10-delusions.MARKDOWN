@@ -2,7 +2,7 @@
 layout: post
 title: Delusions
 description: Jan 10, 2017
-image: /assets/images/delusion.jpg
+image: /assets/images/delusions.jpg
 ---
 
 i enjoy being deluded
