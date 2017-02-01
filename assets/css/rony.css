@@ -1,48 +1,90 @@
 /**CSS for components and things designed and implemented by Rony Islam - jahedulislam.com **/
 
-#ronybanner{
-    background: 
-    /* top, transparent black to blue, faked with gradient */ 
-    linear-gradient(
-      rgba(0, 2, 10, .55), 
-      rgba(0, 2, 80, 0.45)
-    ),
-    /* bottom, image */
-    url('/thepriceofcreation/assets/images/banner.jpg');  background-size:   cover;                      /* <------ */
-    background-repeat: no-repeat;
-    background-position: center center; 
-    height:50vh;
+
+.intro-header {
+    background: no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    margin-bottom: 0;    
+    background-image: url("/thepriceofcreation/assets/images/banner.jpg");
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    min-height: 200px;
 }
-
-.vcenter{
-    height:100%;
-    position: relative;
-    vertical-align: baseline;
+@media only screen and (min-width: 768px) {
+  .intro-header .site-heading,
+  .intro-header .post-heading,
+  .intro-header .page-heading {
+    padding: 150px 0;
+  }
 }
-
-.flexbox{
-    display:flex;
- justify-content:center;
- align-items: center;
- flex-flow: column;
-    padding-top: 180px;
+.intro-header .site-heading,
+.intro-header .page-heading {
+  text-align: center;
 }
+.intro-header .site-heading h1,
+.intro-header .page-heading h1 {
+  margin: 0;
+  font-size: 45px;
+}
+.intro-header .site-heading .subheading,
+.intro-header .page-heading .subheading {
+  font-size: 24px;
+  line-height: 1.1;
+  display: block;
+  font-weight: 300;
+  margin: 10px 0 0;
+}
+@media only screen and (min-width: 768px) {
+  .intro-header .site-heading h1,
+  .intro-header .page-heading h1 {
+    font-size: 73px;
+  }
+}
+.intro-header .post-heading h1 {
+  font-size: 35px;
+}
+.intro-header .post-heading .subheading,
+.intro-header .post-heading .meta {
+  line-height: 1.1;
+  display: block;
+}
+.intro-header .post-heading .subheading {
+  font-size: 24px;
+  margin: 10px 0 30px;
+  font-weight: 600;
+}
+.intro-header .post-heading .meta {
 
-h1{
-    margin-bottom: 0;
+  font-weight: 300;
+  font-size: 20px;
+}
+.intro-header .post-heading .meta a {
+  color: white;
+}
+@media only screen and (min-width: 768px) {
+  .intro-header .post-heading h1 {
+    font-size: 55px;
+  }
+  .intro-header .post-heading .subheading {
+    font-size: 30px;
+  }
 }
 
 hr.small {
-  border-width: 4px;
-  border-color: white;
-    width:50vw;
-    margin:5px;
+    width: 50%;
+    margin: 0px auto;
+    border-width: 4px;
+    border-color: white;
 }
 
-#ronybanner h1{
-    font-size: 5em;
+.intro-header .site-heading,
+.intro-header .post-heading,
+.intro-header .page-heading {
+  padding: 120px 0 75px;
+  color: white;
 }
