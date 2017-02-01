@@ -21,7 +21,7 @@ you lasted just a
 few short weeks.   
 back then   
 you never thought of stopping   
- 
+
 thought of jotting   
 all your thoughts down   
 now your thoughts drown   
@@ -29,7 +29,7 @@ thought you had found
 remedy or antidote   
 for stress and pressure   
 they creep back up now   
- 
+
 pages torn from   
 notebooks, journals   
 pages thrown into   
