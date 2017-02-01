@@ -2,7 +2,7 @@
 layout: post
 title: Everyone Falls On a Scale
 description: Jan 15, 2017
-image:
+image: /assets/images/everyonefallsonascale.jpg
 ---
 
 everyone falls on a scale   
