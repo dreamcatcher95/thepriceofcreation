@@ -5,9 +5,11 @@
                 <span class="image">
                         <img src="{{ post.image }}" alt="" />
                 </span>
+                <div class="inner">
                 <header class="major">
                         <h3><a href="{{ post.url  | relative_url }}" class="link">{{ post.title }}</a></h3>
                         <p>{{ post.description }}</p>
+                </div>
                 </header>
         </article>
 	{% endif %}
