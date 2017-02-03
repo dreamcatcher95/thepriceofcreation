@@ -24,6 +24,7 @@ nav-menu: true
 </div>
 </section>
 
+<!--
 <div id="main">
   <section id="one">
   <div class="inner"><header class="major">
@@ -118,3 +119,4 @@ Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris a
   <p>
 </p>
 </div>
+-->
