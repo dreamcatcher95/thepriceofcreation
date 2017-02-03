@@ -1,4 +1,4 @@
-/**CSS for components and things designed and implemented by Rony Islam - jahedulislam.com **/
+/**CSS for components and things designed and implemented by Rony Islam and Hyder Hasnain - jahedulislam.com **/
 
 
 .intro-header {
@@ -77,9 +77,41 @@
 
 hr.small {
     width: 50%;
-    margin: 0px auto;
+    margin: auto auto;
+    margin-bottom: 1.5em;
     border-width: 4px;
     border-color: white;
+}
+
+hr.tiny {
+    width: 85%;
+    margin-left: 0em;
+    margin-top: 1%;
+    margin-bottom: 8%;
+    margin-right: 8%;
+    border-color: white;
+    border-width: 2px; 
+
+    &.major {
+      margin: (_size(element-margin) * 1.5) 0;
+    }
+  }     
+}
+
+hr.large {
+
+    width: 80%;
+    margin-left: 0em;
+    margin-top: auto;
+    margin-bottom: 5%;
+    margin-right: 10%;
+    border-color: white;
+    border-width: 2px; 
+
+    &.major {
+      margin: (_size(element-margin) * 1.5) 0;
+    }
+  }
 }
 
 .intro-header .site-heading,
