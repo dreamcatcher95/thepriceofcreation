@@ -123,12 +123,16 @@
 			}
 		}
 
+		@media only screen and (min-device-width : 375px) and (max-device-width : 667px) { 
+			@include vendor('background-image', 'url("../../assets/images/banner_orig.jpg")');
+		}
+
 		@include breakpoint(large) {
 			background-attachment: scroll;
 		}
 
 		@include breakpoint(small) {
-			background-attachment: scroll;
+			background-attachment: fixed;
 			@include padding(3em, 0, (2em, 0, 0, 0));
 			height: auto;
 			margin-bottom: -2.75em;
