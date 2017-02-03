@@ -2,7 +2,7 @@
 layout: post
 title: Alternative Facts
 description: Jan 23, 2017
-image: /assets/images/alternativefacts.jpg
+image: assets/images/alternativefacts.jpg
 ---
 
 our brand new reality   
@@ -25,3 +25,4 @@ me and you
 become another silent voice   
 in faceless protest   
 our only choice.   
+

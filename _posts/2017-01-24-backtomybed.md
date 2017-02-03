@@ -2,12 +2,12 @@
 layout: post
 title: Back To My Bed
 description: Jan 24, 2017
-image: /assets/images/backtomybed.jpg
+image: assets/images/backtomybed.jpg
 ---
 
 the sky stays bright   
 deep into night   
-the city lights    
+the city lights   
 accompany   
 my wayward fight   
 back to my bed   
@@ -31,4 +31,4 @@ the lights dim slow
 as my eyes close.   
 
 and into sleep   
-i find some peace.
+i find some peace.   

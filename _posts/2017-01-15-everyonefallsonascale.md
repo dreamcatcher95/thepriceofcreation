@@ -1,25 +1,25 @@
 ---
 layout: post
-title: Everyone Falls On a Scale
+title: Everyone Falls On A Scale
 description: Jan 15, 2017
-image: /assets/images/everyonefallsonascale.jpg
+image: assets/images/everyonefallsonascale.jpg
 ---
 
 everyone falls on a scale   
-and of the people   
+and of the people,   
 i as well   
 discover in myself a piece   
-of comparing my history   
-my sanity   
-my unmet needs   
+of comparing my history,   
+my sanity,   
+my unmet needs,   
 and my hidden   
-shortcomings   
- 
-everyone falls on a scale   
-the packaged goods   
-this show-and-tell   
-taped up on billboards   
-i track scoreboards   
+shortcomings.   
+
+everyone falls on a scale,   
+the packaged goods,   
+this show-and-tell,   
+taped up on billboards.   
+i track scoreboards,   
 i find faults   
 and   
-hold the off-note   
+hold the off-note.   

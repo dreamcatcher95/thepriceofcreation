@@ -8,7 +8,7 @@ url: "https://hyderhasnain.github.io" # the base hostname & protocol for your si
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 45
 
 # Social settings
 
