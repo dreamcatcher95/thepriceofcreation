@@ -21,7 +21,7 @@ i enjoy being deluded.
 so i remembered how the music played   
 when they locked eyes   
 entering the jazz joint.   
-i pointed   
+i pointed,   
 look!   
 my life   
 could be that.   
@@ -35,7 +35,7 @@ they danced
 back and forth   
 and in and out of that dream   
 i sat rapt,   
-and it’s a fact.   
+and it’s a fact   
 
 that once the screen dimmed black,   
 and we picked up   
