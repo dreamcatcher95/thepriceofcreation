@@ -2,7 +2,7 @@
 layout: page
 title: About
 description:
-image: assets/images/banner_orig.jpg
+image: assets/images/about.jpg
 nav-menu: true
 ---
 
