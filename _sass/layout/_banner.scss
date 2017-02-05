@@ -124,7 +124,7 @@
 		}
 
 		@media only screen and (min-device-width : 375px) and (max-device-width : 667px) { 
-			@include vendor('background-image', 'url("../../assets/images/banner_orig.jpg")');
+			@include vendor('background-image', 'url("../../assets/images/banner_comp.jpg")');
 		}
 
 		@include breakpoint(large) {
