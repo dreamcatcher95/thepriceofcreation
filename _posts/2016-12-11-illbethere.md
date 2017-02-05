@@ -12,4 +12,5 @@ mumbling from the living room, coarse breaths
 stepping out of my bedroom   
 a cold breeze on my neck   
 i step around the corner, arch my head to see   
+
 my own dead, black eyes staring back at me.   
