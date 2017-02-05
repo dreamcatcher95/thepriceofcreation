@@ -11,7 +11,7 @@ the news articles screamed
 ...   
 
 danger in the woods   
-and lightness in the trees,   
+and rustling in the leaves,   
 the prospect of   
 a peaceful night   
 seems absurd   
