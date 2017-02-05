@@ -27,7 +27,7 @@ screaming
 and the hordes huddled   
 in the frigid   
 cold, winter wind.   
-i know they wouldn't win,   
+i knew they wouldn't win,   
 drowned out by sirens   
 screaming   
 "danger"   
