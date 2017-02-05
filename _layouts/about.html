@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+
+<html>
+
+    {% include head.html %}
+    
+    <body>
+        
+        {% include header.html %}
+        
+        
+<div id="main" class="alt">
+    
+<section id="banner">
+  <div class="inner">
+      <header class="major">
+      <h1>{{page.title}}</h1>
+      </header>
+  <span class="image">
+      {% if page.image %}<span class="image"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>{% endif %}
+</span>
+  <header class="major">
+
+
+
+</header>
+
+  <hr class="large">
+
+
+  <div class="content">
+
+{{ page.description }}
+
+</div>
+</div>
+</section>
+
+<section id="one">
+    <div class="inner">
+    <p class="post_p">{{content}}</p>
+    </div>
+
+</section>
+    
+</div>
+        
+    {% include footer.html %}
+        
+</body>
+
+</html>

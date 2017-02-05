@@ -3,11 +3,14 @@
 	{% if site.tiles-source == 'posts' %}
         <article>
                 <span class="image">
-                        <img src="{{ post.image }}" alt="" />
+                        <img src="{{ post.image }}" />
                 </span>
+                <div class="inner">
                 <header class="major">
                         <h3><a href="{{ post.url  | relative_url }}" class="link">{{ post.title }}</a></h3>
+                        <hr class="tiny">
                         <p>{{ post.description }}</p>
+                </div>
                 </header>
         </article>
 	{% endif %}
