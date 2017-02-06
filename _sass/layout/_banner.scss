@@ -11,7 +11,7 @@
 		@include vendor('background-image', 'url("../../assets/images/banner_comp.jpg")');
 		@include vendor('display', 'flex');
 		@include padding(4em, 0, (2em, 0, 0, 0));
-		background-attachment: fixed;
+		background-attachment: scroll;
 		background-position: center;
 		background-repeat: no-repeat;
 		background-size: cover;
@@ -132,7 +132,7 @@
 		}
 
 		@include breakpoint(small) {
-			background-attachment: fixed;
+			background-attachment: scroll;
 			@include padding(3em, 0, (2em, 0, 0, 0));
 			height: auto;
 			margin-bottom: -2.75em;
